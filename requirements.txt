@@ -1,0 +1,6 @@
+sklearn
+streamlit
+yfinance
+plotly
+graphviz
+pandas
